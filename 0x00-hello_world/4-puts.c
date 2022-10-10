@@ -12,4 +12,3 @@ int main(void)
 	puts("\"programming is like bulding multilingual puzzle");
 	return (0);
 }
-

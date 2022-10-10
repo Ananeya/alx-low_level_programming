@@ -1,2 +1,1 @@
-this is C
-
+this is a read me file
